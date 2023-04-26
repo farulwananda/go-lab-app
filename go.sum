@@ -2,3 +2,5 @@ github.com/farulwananda/go-lab-modules v1.0.0 h1:NvIvTM4GUbDbxI0yhE9iYbxJx/Zepzm
 github.com/farulwananda/go-lab-modules v1.0.0/go.mod h1:0UuJvSuzkuiSHZRLhqx52zeRVWPvr1XK2ieJoamaQO4=
 github.com/farulwananda/go-lab-modules v1.2.0 h1:xoiz+huFznhUyuYBgfL4twtFH7ZnmF6deEbi/6d0dZs=
 github.com/farulwananda/go-lab-modules v1.2.0/go.mod h1:0UuJvSuzkuiSHZRLhqx52zeRVWPvr1XK2ieJoamaQO4=
+github.com/farulwananda/go-lab-modules/v2 v2.0.0 h1:vqlfOXr1/w6++/HcjcbiC/F/27AQ88Ycb4uluGQUY2o=
+github.com/farulwananda/go-lab-modules/v2 v2.0.0/go.mod h1:eKtbt4iHBNJ7kWG9DuaOJ9wftWZfW76nibZbytRGdRU=
